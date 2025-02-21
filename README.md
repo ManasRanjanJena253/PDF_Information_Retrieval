@@ -96,11 +96,5 @@ This project retrieves and answers questions about the content of uploaded PDF d
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-🎉 Happy coding! 🚀
 
